@@ -1,0 +1,13 @@
+project:
+    ident: revel
+    name: Revel
+    one_liner: Revel is a golang powered web applcation framwork
+    domain: revel-cool-fridge.com
+    www: http://www.{domain}
+    
+manifest:
+    - github.com/revel/cmd/revel
+    - github.com/revel/revel
+    - github.com/revel/modules
+    - github.com/revel/samples
+    
